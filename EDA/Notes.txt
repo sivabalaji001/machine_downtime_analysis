@@ -1,0 +1,2 @@
+Handling missing values
+1. MCAR-This type of data missing occurs when there is an equipment failure or some design fault.
